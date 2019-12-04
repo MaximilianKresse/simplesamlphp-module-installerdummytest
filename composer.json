@@ -1,0 +1,14 @@
+  
+{
+    "name": "MaximilianKresse/simplesamlphp-module-installerdummytest",
+    "description": "this package is just a test",
+    "type": "simplesamlphp-module",
+    "minimum-stability": "stable",
+    "license": "MIT",
+
+    "require": {
+        "php": ">=7.1",
+        "simplesamlphp/composer-module-installer": "^1.1.5",
+        "simplesamlphp/simplesamlphp": "^1.17"
+    }
+}
