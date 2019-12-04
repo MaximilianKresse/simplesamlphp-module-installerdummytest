@@ -1,6 +1,6 @@
   
 {
-    "name": "MaximilianKresse/simplesamlphp-module-installerdummytest",
+    "name": "maximilian-kresse/simplesamlphp-module-installerdummytest",
     "description": "this package is just a test",
     "type": "simplesamlphp-module",
     "minimum-stability": "stable",
